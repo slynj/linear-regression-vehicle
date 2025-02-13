@@ -1,4 +1,4 @@
-# Vehicle Regression Analysis
+# Used Vehicle Linear Regression Prediction Analysis
 
 ## 📊 Summary
 This project analyzes vehicle data using linear regression. 
